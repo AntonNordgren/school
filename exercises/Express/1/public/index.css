@@ -1,0 +1,25 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Mukta', sans-serif;
+}
+
+body {
+    background-color: rgba(7, 3, 59, 0.116);
+    color: rgba(127, 158, 16, 0.719);
+}
+
+#rubrik {
+    font-size: 7em;
+    text-align: center;
+}
+
+#nodeImg {
+    position: relative;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    bottom: 0;
+}
